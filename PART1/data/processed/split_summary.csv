@@ -1,0 +1,4 @@
+split,rows,first_feature_date,last_feature_date,first_target_date,last_target_date
+train,3251,2007-11-27,2021-03-12,2007-11-28,2021-03-15
+validation,695,2021-03-16,2024-01-04,2021-03-17,2024-01-05
+test,698,2024-01-08,2026-11-05,2024-01-09,2026-11-06

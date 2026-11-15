@@ -1,0 +1,452 @@
+{
+  "w_tabnet": 0.62,
+  "best_params": {
+    "w_tabnet": 0.62,
+    "w_xgboost": 0.38,
+    "val_rmse": 0.008757987345141013,
+    "loss_curve": [
+      {
+        "weight_tabnet": 0.0,
+        "val_rmse": 0.008775384415920072
+      },
+      {
+        "weight_tabnet": 0.01,
+        "val_rmse": 0.008774829013532635
+      },
+      {
+        "weight_tabnet": 0.02,
+        "val_rmse": 0.008774282595651713
+      },
+      {
+        "weight_tabnet": 0.03,
+        "val_rmse": 0.008773745163955935
+      },
+      {
+        "weight_tabnet": 0.04,
+        "val_rmse": 0.008773216720096738
+      },
+      {
+        "weight_tabnet": 0.05,
+        "val_rmse": 0.008772697265698327
+      },
+      {
+        "weight_tabnet": 0.06,
+        "val_rmse": 0.008772186802357668
+      },
+      {
+        "weight_tabnet": 0.07,
+        "val_rmse": 0.008771685331644448
+      },
+      {
+        "weight_tabnet": 0.08,
+        "val_rmse": 0.008771192855101057
+      },
+      {
+        "weight_tabnet": 0.09,
+        "val_rmse": 0.008770709374242569
+      },
+      {
+        "weight_tabnet": 0.1,
+        "val_rmse": 0.008770234890556712
+      },
+      {
+        "weight_tabnet": 0.11,
+        "val_rmse": 0.008769769405503848
+      },
+      {
+        "weight_tabnet": 0.12,
+        "val_rmse": 0.008769312920516947
+      },
+      {
+        "weight_tabnet": 0.13,
+        "val_rmse": 0.008768865437001575
+      },
+      {
+        "weight_tabnet": 0.14,
+        "val_rmse": 0.008768426956335859
+      },
+      {
+        "weight_tabnet": 0.15,
+        "val_rmse": 0.008767997479870476
+      },
+      {
+        "weight_tabnet": 0.16,
+        "val_rmse": 0.008767577008928629
+      },
+      {
+        "weight_tabnet": 0.17,
+        "val_rmse": 0.008767165544806025
+      },
+      {
+        "weight_tabnet": 0.18,
+        "val_rmse": 0.008766763088770857
+      },
+      {
+        "weight_tabnet": 0.19,
+        "val_rmse": 0.008766369642063785
+      },
+      {
+        "weight_tabnet": 0.2,
+        "val_rmse": 0.008765985205897914
+      },
+      {
+        "weight_tabnet": 0.21,
+        "val_rmse": 0.008765609781458778
+      },
+      {
+        "weight_tabnet": 0.22,
+        "val_rmse": 0.008765243369904325
+      },
+      {
+        "weight_tabnet": 0.23,
+        "val_rmse": 0.008764885972364888
+      },
+      {
+        "weight_tabnet": 0.24,
+        "val_rmse": 0.008764537589943182
+      },
+      {
+        "weight_tabnet": 0.25,
+        "val_rmse": 0.008764198223714277
+      },
+      {
+        "weight_tabnet": 0.26,
+        "val_rmse": 0.008763867874725582
+      },
+      {
+        "weight_tabnet": 0.27,
+        "val_rmse": 0.008763546543996834
+      },
+      {
+        "weight_tabnet": 0.28,
+        "val_rmse": 0.00876323423252008
+      },
+      {
+        "weight_tabnet": 0.29,
+        "val_rmse": 0.00876293094125966
+      },
+      {
+        "weight_tabnet": 0.3,
+        "val_rmse": 0.008762636671152194
+      },
+      {
+        "weight_tabnet": 0.31,
+        "val_rmse": 0.008762351423106567
+      },
+      {
+        "weight_tabnet": 0.32,
+        "val_rmse": 0.008762075198003913
+      },
+      {
+        "weight_tabnet": 0.33,
+        "val_rmse": 0.008761807996697606
+      },
+      {
+        "weight_tabnet": 0.34,
+        "val_rmse": 0.008761549820013245
+      },
+      {
+        "weight_tabnet": 0.35000000000000003,
+        "val_rmse": 0.008761300668748634
+      },
+      {
+        "weight_tabnet": 0.36,
+        "val_rmse": 0.008761060543673786
+      },
+      {
+        "weight_tabnet": 0.37,
+        "val_rmse": 0.008760829445530893
+      },
+      {
+        "weight_tabnet": 0.38,
+        "val_rmse": 0.008760607375034323
+      },
+      {
+        "weight_tabnet": 0.39,
+        "val_rmse": 0.008760394332870618
+      },
+      {
+        "weight_tabnet": 0.4,
+        "val_rmse": 0.008760190319698463
+      },
+      {
+        "weight_tabnet": 0.41000000000000003,
+        "val_rmse": 0.008759995336148694
+      },
+      {
+        "weight_tabnet": 0.42,
+        "val_rmse": 0.008759809382824278
+      },
+      {
+        "weight_tabnet": 0.43,
+        "val_rmse": 0.008759632460300305
+      },
+      {
+        "weight_tabnet": 0.44,
+        "val_rmse": 0.008759464569123989
+      },
+      {
+        "weight_tabnet": 0.45,
+        "val_rmse": 0.008759305709814643
+      },
+      {
+        "weight_tabnet": 0.46,
+        "val_rmse": 0.008759155882863683
+      },
+      {
+        "weight_tabnet": 0.47000000000000003,
+        "val_rmse": 0.008759015088734619
+      },
+      {
+        "weight_tabnet": 0.48,
+        "val_rmse": 0.00875888332786304
+      },
+      {
+        "weight_tabnet": 0.49,
+        "val_rmse": 0.008758760600656619
+      },
+      {
+        "weight_tabnet": 0.5,
+        "val_rmse": 0.008758646907495098
+      },
+      {
+        "weight_tabnet": 0.51,
+        "val_rmse": 0.008758542248730287
+      },
+      {
+        "weight_tabnet": 0.52,
+        "val_rmse": 0.008758446624686052
+      },
+      {
+        "weight_tabnet": 0.53,
+        "val_rmse": 0.00875836003565832
+      },
+      {
+        "weight_tabnet": 0.54,
+        "val_rmse": 0.00875828248191506
+      },
+      {
+        "weight_tabnet": 0.55,
+        "val_rmse": 0.0087582139636963
+      },
+      {
+        "weight_tabnet": 0.56,
+        "val_rmse": 0.008758154481214104
+      },
+      {
+        "weight_tabnet": 0.5700000000000001,
+        "val_rmse": 0.008758104034652572
+      },
+      {
+        "weight_tabnet": 0.58,
+        "val_rmse": 0.008758062624167848
+      },
+      {
+        "weight_tabnet": 0.59,
+        "val_rmse": 0.008758030249888105
+      },
+      {
+        "weight_tabnet": 0.6,
+        "val_rmse": 0.008758006911913556
+      },
+      {
+        "weight_tabnet": 0.61,
+        "val_rmse": 0.008757992610316434
+      },
+      {
+        "weight_tabnet": 0.62,
+        "val_rmse": 0.008757987345141013
+      },
+      {
+        "weight_tabnet": 0.63,
+        "val_rmse": 0.008757991116403586
+      },
+      {
+        "weight_tabnet": 0.64,
+        "val_rmse": 0.008758003924092482
+      },
+      {
+        "weight_tabnet": 0.65,
+        "val_rmse": 0.008758025768168058
+      },
+      {
+        "weight_tabnet": 0.66,
+        "val_rmse": 0.008758056648562695
+      },
+      {
+        "weight_tabnet": 0.67,
+        "val_rmse": 0.00875809656518081
+      },
+      {
+        "weight_tabnet": 0.68,
+        "val_rmse": 0.008758145517898856
+      },
+      {
+        "weight_tabnet": 0.6900000000000001,
+        "val_rmse": 0.008758203506565308
+      },
+      {
+        "weight_tabnet": 0.7000000000000001,
+        "val_rmse": 0.008758270531000688
+      },
+      {
+        "weight_tabnet": 0.71,
+        "val_rmse": 0.008758346590997555
+      },
+      {
+        "weight_tabnet": 0.72,
+        "val_rmse": 0.008758431686320506
+      },
+      {
+        "weight_tabnet": 0.73,
+        "val_rmse": 0.00875852581670619
+      },
+      {
+        "weight_tabnet": 0.74,
+        "val_rmse": 0.0087586289818633
+      },
+      {
+        "weight_tabnet": 0.75,
+        "val_rmse": 0.008758741181472587
+      },
+      {
+        "weight_tabnet": 0.76,
+        "val_rmse": 0.008758862415186867
+      },
+      {
+        "weight_tabnet": 0.77,
+        "val_rmse": 0.00875899268263101
+      },
+      {
+        "weight_tabnet": 0.78,
+        "val_rmse": 0.008759131983401962
+      },
+      {
+        "weight_tabnet": 0.79,
+        "val_rmse": 0.008759280317068746
+      },
+      {
+        "weight_tabnet": 0.8,
+        "val_rmse": 0.008759437683172472
+      },
+      {
+        "weight_tabnet": 0.81,
+        "val_rmse": 0.008759604081226334
+      },
+      {
+        "weight_tabnet": 0.8200000000000001,
+        "val_rmse": 0.008759779510715628
+      },
+      {
+        "weight_tabnet": 0.8300000000000001,
+        "val_rmse": 0.00875996397109776
+      },
+      {
+        "weight_tabnet": 0.84,
+        "val_rmse": 0.008760157461802242
+      },
+      {
+        "weight_tabnet": 0.85,
+        "val_rmse": 0.008760359982230714
+      },
+      {
+        "weight_tabnet": 0.86,
+        "val_rmse": 0.008760571531756953
+      },
+      {
+        "weight_tabnet": 0.87,
+        "val_rmse": 0.008760792109726866
+      },
+      {
+        "weight_tabnet": 0.88,
+        "val_rmse": 0.008761021715458527
+      },
+      {
+        "weight_tabnet": 0.89,
+        "val_rmse": 0.008761260348242164
+      },
+      {
+        "weight_tabnet": 0.9,
+        "val_rmse": 0.00876150800734018
+      },
+      {
+        "weight_tabnet": 0.91,
+        "val_rmse": 0.008761764691987165
+      },
+      {
+        "weight_tabnet": 0.92,
+        "val_rmse": 0.008762030401389908
+      },
+      {
+        "weight_tabnet": 0.93,
+        "val_rmse": 0.008762305134727403
+      },
+      {
+        "weight_tabnet": 0.9400000000000001,
+        "val_rmse": 0.008762588891150868
+      },
+      {
+        "weight_tabnet": 0.9500000000000001,
+        "val_rmse": 0.008762881669783756
+      },
+      {
+        "weight_tabnet": 0.96,
+        "val_rmse": 0.008763183469721771
+      },
+      {
+        "weight_tabnet": 0.97,
+        "val_rmse": 0.008763494290032876
+      },
+      {
+        "weight_tabnet": 0.98,
+        "val_rmse": 0.00876381412975731
+      },
+      {
+        "weight_tabnet": 0.99,
+        "val_rmse": 0.00876414298790761
+      },
+      {
+        "weight_tabnet": 1.0,
+        "val_rmse": 0.008764480863468618
+      }
+    ]
+  },
+  "feature_names": [
+    "daily_return",
+    "log_return",
+    "sma_5_ratio",
+    "sma_10_ratio",
+    "sma_20_ratio",
+    "sma_50_ratio",
+    "ema_12_ratio",
+    "ema_26_ratio",
+    "macd_ratio",
+    "volatility_5",
+    "volatility_20",
+    "high_low_range_pct",
+    "open_close_return",
+    "rsi_14",
+    "day_of_week",
+    "month_sin",
+    "month_cos"
+  ],
+  "native_importance": {
+    "daily_return": 0.043297046627238586,
+    "log_return": 0.06997758658463958,
+    "sma_5_ratio": 0.02713803597249144,
+    "sma_10_ratio": 0.11400604431460705,
+    "sma_20_ratio": 0.07340481430440172,
+    "sma_50_ratio": 0.04033669618408667,
+    "ema_12_ratio": 0.0648349250458752,
+    "ema_26_ratio": 0.1656608803701699,
+    "macd_ratio": 0.025597146434708073,
+    "volatility_5": 0.028269276826444704,
+    "volatility_20": 0.04582919825527784,
+    "high_low_range_pct": 0.025424332110926685,
+    "open_close_return": 0.046731320330101495,
+    "rsi_14": 0.02869016068715253,
+    "day_of_week": 0.1432192900069537,
+    "month_sin": 0.010387795236348358,
+    "month_cos": 0.04719545070857652
+  }
+}

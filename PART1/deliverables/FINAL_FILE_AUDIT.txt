@@ -1,0 +1,9 @@
+NIFTY 50 PART 1 FILE AUDIT
+
+Project directory: /Users/nakshathirabharathi/Documents/mlbd-part 1
+
+Required files checked: 18
+Valid EDA graphs: 6
+Missing/invalid items: 0
+
+MISSING ITEMS: None

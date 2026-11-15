@@ -1,0 +1,32 @@
+{
+  "framework": "baseline",
+  "task": "regression",
+  "implementation": "native",
+  "seed": 42,
+  "feature_names": [
+    "daily_return",
+    "log_return",
+    "sma_5_ratio",
+    "sma_10_ratio",
+    "sma_20_ratio",
+    "sma_50_ratio",
+    "ema_12_ratio",
+    "ema_26_ratio",
+    "macd_ratio",
+    "volatility_5",
+    "volatility_20",
+    "high_low_range_pct",
+    "open_close_return",
+    "rsi_14",
+    "day_of_week",
+    "month_sin",
+    "month_cos"
+  ],
+  "y_mean": 0.00039703579769789364,
+  "y_std": 0.014187338452862434,
+  "native_importance": null,
+  "best_params": {},
+  "n_parameters": 1,
+  "epochs_trained": null,
+  "hp": {}
+}

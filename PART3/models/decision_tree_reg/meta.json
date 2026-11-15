@@ -1,0 +1,53 @@
+{
+  "framework": "decision_tree",
+  "task": "regression",
+  "implementation": "sklearn",
+  "seed": 42,
+  "feature_names": [
+    "daily_return",
+    "log_return",
+    "sma_5_ratio",
+    "sma_10_ratio",
+    "sma_20_ratio",
+    "sma_50_ratio",
+    "ema_12_ratio",
+    "ema_26_ratio",
+    "macd_ratio",
+    "volatility_5",
+    "volatility_20",
+    "high_low_range_pct",
+    "open_close_return",
+    "rsi_14",
+    "day_of_week",
+    "month_sin",
+    "month_cos"
+  ],
+  "y_mean": 0.00039703579769789364,
+  "y_std": 0.014187338452862434,
+  "native_importance": {
+    "daily_return": 0.0,
+    "log_return": 0.0,
+    "sma_5_ratio": 0.0,
+    "sma_10_ratio": 0.0,
+    "sma_20_ratio": 0.0,
+    "sma_50_ratio": 0.0,
+    "ema_12_ratio": 0.0,
+    "ema_26_ratio": 0.0,
+    "macd_ratio": 0.5945742047381459,
+    "volatility_5": 0.40517667420589054,
+    "volatility_20": 0.0,
+    "high_low_range_pct": 0.0,
+    "open_close_return": 0.0,
+    "rsi_14": 0.0,
+    "day_of_week": 0.0,
+    "month_sin": 0.00024912105596365346,
+    "month_cos": 0.0
+  },
+  "best_params": {
+    "max_depth": 2,
+    "val_loss": 0.3855269067935329
+  },
+  "n_parameters": 7,
+  "epochs_trained": 1,
+  "hp": {}
+}

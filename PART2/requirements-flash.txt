@@ -1,0 +1,10 @@
+# Lightning Flash is in maintenance mode and pins old PyTorch / Lightning versions. Use a SEPARATE venv
+# (Python 3.9/3.10 recommended). Versions below are the last known Flash line and were NOT verified offline.
+# Then run only:  python run_models.py --models flash_reg flash_clf
+# If install fails, run_models.py falls back to a plain PyTorch-Lightning MLP labelled `pytorch_lightning_fallback`.
+-r requirements-base.txt
+lightning-flash[tabular]==0.8.2
+pytorch-lightning>=1.8,<2.0
+torch>=1.13,<2.1
+numpy>=1.23,<1.27
+pandas>=1.5,<2.1

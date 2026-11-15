@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+# Keep raw data out of Git unless the team explicitly agrees to version it.
+data/raw/*
+!data/raw/.gitkeep
+logs/*.log

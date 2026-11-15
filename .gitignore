@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Editors and operating systems
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Test and build caches
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/

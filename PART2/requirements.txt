@@ -1,0 +1,19 @@
+# NIFTY 50 Parts 1+2. Recommended: Python 3.10 or 3.11 (TensorFlow/fastai/TabNet wheels). NOT installed or verified by the
+# author of this file (no network when written): these ranges are chosen for mutual compatibility; if pip reports a
+# conflict, install the framework that fails in its own venv and run only its models (python run_models.py --models <name>).
+numpy>=1.24,<2.0            # pytorch-tabnet 4.1 and TF<2.18 require numpy 1.x
+pandas>=1.5,<2.3
+matplotlib>=3.6,<4.0
+scipy>=1.10,<1.14
+scikit-learn>=1.3,<1.6
+joblib>=1.3
+yfinance>=0.2.40            # Part 1 download step only
+pytest>=7.0,<9.0
+# ---- Part 2 frameworks ----
+xgboost>=2.0,<3.0
+tensorflow>=2.15,<2.18      # Keras 2.15 / Keras 3 (2.16+); model saved as .keras
+torch>=2.1,<2.6             # fastai 2.7.x supports torch<2.6; also avoids torch>=2.6 weights_only default
+fastai>=2.7.15,<2.8
+pytorch-tabnet>=4.1,<4.2
+pytorch-lightning>=2.0,<2.5
+# Lightning Flash: see requirements-flash.txt (separate environment; falls back to a labelled PyTorch-Lightning MLP)

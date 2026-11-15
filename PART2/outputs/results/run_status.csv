@@ -1,0 +1,18 @@
+model,framework,task,implementation,status,train_time_sec,n_parameters,epochs_trained,best_params,val_primary_metric,error
+baseline_train_mean_reg,baseline,regression,native,trained,0.0,1.0,,{},0.0088109091133414,
+baseline_zero_reg,baseline,regression,native,trained,0.0,1.0,,{},0.0088280683296195,
+baseline_persistence_reg,baseline,regression,native,trained,0.0,1.0,,{},0.012148254753539,
+baseline_ridge_reg,baseline,regression,native,trained,0.008,18.0,,"{""alpha"": 1000}",0.00879987430189034,
+baseline_majority_class_clf,baseline,classification,native,trained,0.0,1.0,,{},0.5,
+baseline_persistence_clf,baseline,classification,native,trained,0.0,1.0,,{},0.5634497845763335,
+baseline_logistic_regression_clf,baseline,classification,native,trained,0.056,18.0,,"{""C"": 0.1}",0.5587488727831401,
+xgboost_reg,xgboost,regression,none,failed,,,,,,ModuleNotFoundError: No module named 'xgboost'
+xgboost_clf,xgboost,classification,none,failed,,,,,,ModuleNotFoundError: No module named 'xgboost'
+keras_reg,keras,regression,none,failed,,,,,,ModuleNotFoundError: No module named 'tensorflow'
+keras_clf,keras,classification,none,failed,,,,,,ModuleNotFoundError: No module named 'tensorflow'
+fastai_reg,fastai,regression,none,failed,,,,,,ModuleNotFoundError: No module named 'fastai'
+fastai_clf,fastai,classification,none,failed,,,,,,ModuleNotFoundError: No module named 'fastai'
+tabnet_reg,tabnet,regression,none,failed,,,,,,ModuleNotFoundError: No module named 'torch'
+tabnet_clf,tabnet,classification,none,failed,,,,,,ModuleNotFoundError: No module named 'torch'
+flash_reg,flash,regression,none,failed,,,,,,RuntimeError: Lightning Flash failed (ModuleNotFoundError: No module named 'flash'); the PyTorch Lightning fallback also failed (ModuleNotFoundError: No module named 'torch')
+flash_clf,flash,classification,none,failed,,,,,,RuntimeError: Lightning Flash failed (ModuleNotFoundError: No module named 'flash'); the PyTorch Lightning fallback also failed (ModuleNotFoundError: No module named 'torch')

@@ -1,0 +1,452 @@
+{
+  "w_tabnet": 0.65,
+  "best_params": {
+    "w_tabnet": 0.65,
+    "w_xgboost": 0.35,
+    "val_roc_auc": 0.5900270532046358,
+    "curve": [
+      {
+        "weight_tabnet": 0.0,
+        "val_roc_auc": 0.5766465715907952
+      },
+      {
+        "weight_tabnet": 0.01,
+        "val_roc_auc": 0.5772936775658795
+      },
+      {
+        "weight_tabnet": 0.02,
+        "val_roc_auc": 0.5779366086637052
+      },
+      {
+        "weight_tabnet": 0.03,
+        "val_roc_auc": 0.5784793427073244
+      },
+      {
+        "weight_tabnet": 0.04,
+        "val_roc_auc": 0.5790137269964263
+      },
+      {
+        "weight_tabnet": 0.05,
+        "val_roc_auc": 0.5794395644768044
+      },
+      {
+        "weight_tabnet": 0.06,
+        "val_roc_auc": 0.5797485053939414
+      },
+      {
+        "weight_tabnet": 0.07,
+        "val_roc_auc": 0.5801993921378712
+      },
+      {
+        "weight_tabnet": 0.08,
+        "val_roc_auc": 0.5806001803546975
+      },
+      {
+        "weight_tabnet": 0.09,
+        "val_roc_auc": 0.5813516582612472
+      },
+      {
+        "weight_tabnet": 0.1,
+        "val_roc_auc": 0.5817023479509702
+      },
+      {
+        "weight_tabnet": 0.11,
+        "val_roc_auc": 0.5821448849403827
+      },
+      {
+        "weight_tabnet": 0.12,
+        "val_roc_auc": 0.5823786780668648
+      },
+      {
+        "weight_tabnet": 0.13,
+        "val_roc_auc": 0.5825373234026919
+      },
+      {
+        "weight_tabnet": 0.14,
+        "val_roc_auc": 0.5829631608830701
+      },
+      {
+        "weight_tabnet": 0.15,
+        "val_roc_auc": 0.5834641461541031
+      },
+      {
+        "weight_tabnet": 0.16,
+        "val_roc_auc": 0.583881633879964
+      },
+      {
+        "weight_tabnet": 0.17,
+        "val_roc_auc": 0.5839066831435156
+      },
+      {
+        "weight_tabnet": 0.18,
+        "val_roc_auc": 0.5842824220967904
+      },
+      {
+        "weight_tabnet": 0.19,
+        "val_roc_auc": 0.5844577669416519
+      },
+      {
+        "weight_tabnet": 0.2,
+        "val_roc_auc": 0.5848919541765472
+      },
+      {
+        "weight_tabnet": 0.21,
+        "val_roc_auc": 0.5848168063858923
+      },
+      {
+        "weight_tabnet": 0.22,
+        "val_roc_auc": 0.5849170034400988
+      },
+      {
+        "weight_tabnet": 0.23,
+        "val_roc_auc": 0.5852843926388565
+      },
+      {
+        "weight_tabnet": 0.24,
+        "val_roc_auc": 0.5855682842924419
+      },
+      {
+        "weight_tabnet": 0.25,
+        "val_roc_auc": 0.5859857720183027
+      },
+      {
+        "weight_tabnet": 0.26,
+        "val_roc_auc": 0.5863281119535085
+      },
+      {
+        "weight_tabnet": 0.27,
+        "val_roc_auc": 0.5864951070438529
+      },
+      {
+        "weight_tabnet": 0.28,
+        "val_roc_auc": 0.5867455996793695
+      },
+      {
+        "weight_tabnet": 0.29,
+        "val_roc_auc": 0.5870127918239205
+      },
+      {
+        "weight_tabnet": 0.3,
+        "val_roc_auc": 0.5873300824955747
+      },
+      {
+        "weight_tabnet": 0.31,
+        "val_roc_auc": 0.58746367856785
+      },
+      {
+        "weight_tabnet": 0.32,
+        "val_roc_auc": 0.587497077585919
+      },
+      {
+        "weight_tabnet": 0.33,
+        "val_roc_auc": 0.5874887278314017
+      },
+      {
+        "weight_tabnet": 0.34,
+        "val_roc_auc": 0.5876056243946428
+      },
+      {
+        "weight_tabnet": 0.35000000000000003,
+        "val_roc_auc": 0.587689121939815
+      },
+      {
+        "weight_tabnet": 0.36,
+        "val_roc_auc": 0.5879813633479176
+      },
+      {
+        "weight_tabnet": 0.37,
+        "val_roc_auc": 0.5882068067198825
+      },
+      {
+        "weight_tabnet": 0.38,
+        "val_roc_auc": 0.5882151564743997
+      },
+      {
+        "weight_tabnet": 0.39,
+        "val_roc_auc": 0.5881567081927791
+      },
+      {
+        "weight_tabnet": 0.4,
+        "val_roc_auc": 0.5882736047560202
+      },
+      {
+        "weight_tabnet": 0.41000000000000003,
+        "val_roc_auc": 0.588615944691226
+      },
+      {
+        "weight_tabnet": 0.42,
+        "val_roc_auc": 0.5884239003373299
+      },
+      {
+        "weight_tabnet": 0.43,
+        "val_roc_auc": 0.5886576934638121
+      },
+      {
+        "weight_tabnet": 0.44,
+        "val_roc_auc": 0.5886576934638121
+      },
+      {
+        "weight_tabnet": 0.45,
+        "val_roc_auc": 0.5888079890451221
+      },
+      {
+        "weight_tabnet": 0.46,
+        "val_roc_auc": 0.5888497378177081
+      },
+      {
+        "weight_tabnet": 0.47000000000000003,
+        "val_roc_auc": 0.5888914865902943
+      },
+      {
+        "weight_tabnet": 0.48,
+        "val_roc_auc": 0.5891085802077419
+      },
+      {
+        "weight_tabnet": 0.49,
+        "val_roc_auc": 0.5893507230887411
+      },
+      {
+        "weight_tabnet": 0.5,
+        "val_roc_auc": 0.5894258708793962
+      },
+      {
+        "weight_tabnet": 0.51,
+        "val_roc_auc": 0.5893423733342239
+      },
+      {
+        "weight_tabnet": 0.52,
+        "val_roc_auc": 0.5895177181790855
+      },
+      {
+        "weight_tabnet": 0.53,
+        "val_roc_auc": 0.5893674225977756
+      },
+      {
+        "weight_tabnet": 0.54,
+        "val_roc_auc": 0.589459269897465
+      },
+      {
+        "weight_tabnet": 0.55,
+        "val_roc_auc": 0.5894676196519822
+      },
+      {
+        "weight_tabnet": 0.56,
+        "val_roc_auc": 0.5894676196519822
+      },
+      {
+        "weight_tabnet": 0.5700000000000001,
+        "val_roc_auc": 0.58953441768812
+      },
+      {
+        "weight_tabnet": 0.58,
+        "val_roc_auc": 0.5896012157242577
+      },
+      {
+        "weight_tabnet": 0.59,
+        "val_roc_auc": 0.5894926689155339
+      },
+      {
+        "weight_tabnet": 0.6,
+        "val_roc_auc": 0.5896262649878093
+      },
+      {
+        "weight_tabnet": 0.61,
+        "val_roc_auc": 0.5897348117965332
+      },
+      {
+        "weight_tabnet": 0.62,
+        "val_roc_auc": 0.5897014127784642
+      },
+      {
+        "weight_tabnet": 0.63,
+        "val_roc_auc": 0.5897598610600849
+      },
+      {
+        "weight_tabnet": 0.64,
+        "val_roc_auc": 0.5898600581142914
+      },
+      {
+        "weight_tabnet": 0.65,
+        "val_roc_auc": 0.5900270532046358
+      },
+      {
+        "weight_tabnet": 0.66,
+        "val_roc_auc": 0.5899268561504291
+      },
+      {
+        "weight_tabnet": 0.67,
+        "val_roc_auc": 0.5898767576233258
+      },
+      {
+        "weight_tabnet": 0.68,
+        "val_roc_auc": 0.5897932600781537
+      },
+      {
+        "weight_tabnet": 0.6900000000000001,
+        "val_roc_auc": 0.5897181122874987
+      },
+      {
+        "weight_tabnet": 0.7000000000000001,
+        "val_roc_auc": 0.5896596640058782
+      },
+      {
+        "weight_tabnet": 0.71,
+        "val_roc_auc": 0.589726462042016
+      },
+      {
+        "weight_tabnet": 0.72,
+        "val_roc_auc": 0.5894759694064995
+      },
+      {
+        "weight_tabnet": 0.73,
+        "val_roc_auc": 0.5893173240706723
+      },
+      {
+        "weight_tabnet": 0.74,
+        "val_roc_auc": 0.5891586787348452
+      },
+      {
+        "weight_tabnet": 0.75,
+        "val_roc_auc": 0.5893507230887411
+      },
+      {
+        "weight_tabnet": 0.76,
+        "val_roc_auc": 0.5893674225977756
+      },
+      {
+        "weight_tabnet": 0.77,
+        "val_roc_auc": 0.5890918806987074
+      },
+      {
+        "weight_tabnet": 0.78,
+        "val_roc_auc": 0.5887912895360876
+      },
+      {
+        "weight_tabnet": 0.79,
+        "val_roc_auc": 0.5887161417454326
+      },
+      {
+        "weight_tabnet": 0.8,
+        "val_roc_auc": 0.5883654520557097
+      },
+      {
+        "weight_tabnet": 0.81,
+        "val_roc_auc": 0.5879646638388831
+      },
+      {
+        "weight_tabnet": 0.8200000000000001,
+        "val_roc_auc": 0.587922915066297
+      },
+      {
+        "weight_tabnet": 0.8300000000000001,
+        "val_roc_auc": 0.5876724224307805
+      },
+      {
+        "weight_tabnet": 0.84,
+        "val_roc_auc": 0.5876223239036772
+      },
+      {
+        "weight_tabnet": 0.85,
+        "val_roc_auc": 0.587730870712401
+      },
+      {
+        "weight_tabnet": 0.86,
+        "val_roc_auc": 0.5875054273404362
+      },
+      {
+        "weight_tabnet": 0.87,
+        "val_roc_auc": 0.5872883337229885
+      },
+      {
+        "weight_tabnet": 0.88,
+        "val_roc_auc": 0.5870545405965064
+      },
+      {
+        "weight_tabnet": 0.89,
+        "val_roc_auc": 0.5869877425603687
+      },
+      {
+        "weight_tabnet": 0.9,
+        "val_roc_auc": 0.5866203533616112
+      },
+      {
+        "weight_tabnet": 0.91,
+        "val_roc_auc": 0.5865201563074045
+      },
+      {
+        "weight_tabnet": 0.92,
+        "val_roc_auc": 0.5862279148993019
+      },
+      {
+        "weight_tabnet": 0.93,
+        "val_roc_auc": 0.5861360675996126
+      },
+      {
+        "weight_tabnet": 0.9400000000000001,
+        "val_roc_auc": 0.5861026685815437
+      },
+      {
+        "weight_tabnet": 0.9500000000000001,
+        "val_roc_auc": 0.5857185798737516
+      },
+      {
+        "weight_tabnet": 0.96,
+        "val_roc_auc": 0.5854012892020974
+      },
+      {
+        "weight_tabnet": 0.97,
+        "val_roc_auc": 0.5851090477939949
+      },
+      {
+        "weight_tabnet": 0.98,
+        "val_roc_auc": 0.5850422497578571
+      },
+      {
+        "weight_tabnet": 0.99,
+        "val_roc_auc": 0.5847249590862029
+      },
+      {
+        "weight_tabnet": 1.0,
+        "val_roc_auc": 0.5845913630139273
+      }
+    ]
+  },
+  "feature_names": [
+    "daily_return",
+    "log_return",
+    "sma_5_ratio",
+    "sma_10_ratio",
+    "sma_20_ratio",
+    "sma_50_ratio",
+    "ema_12_ratio",
+    "ema_26_ratio",
+    "macd_ratio",
+    "volatility_5",
+    "volatility_20",
+    "high_low_range_pct",
+    "open_close_return",
+    "rsi_14",
+    "day_of_week",
+    "month_sin",
+    "month_cos"
+  ],
+  "native_importance": {
+    "daily_return": 0.04324262494702687,
+    "log_return": 0.16058732748963953,
+    "sma_5_ratio": 0.06465018885501726,
+    "sma_10_ratio": 0.058139323672916576,
+    "sma_20_ratio": 0.07745383731008139,
+    "sma_50_ratio": 0.04969328651358937,
+    "ema_12_ratio": 0.04121188066339215,
+    "ema_26_ratio": 0.023538459100832188,
+    "macd_ratio": 0.08039274376500943,
+    "volatility_5": 0.06873757398199115,
+    "volatility_20": 0.0631495421336093,
+    "high_low_range_pct": 0.02385107328554467,
+    "open_close_return": 0.027936727791285566,
+    "rsi_14": 0.05348274551699615,
+    "day_of_week": 0.11831357017136407,
+    "month_sin": 0.017824434399416916,
+    "month_cos": 0.02779466040228743
+  }
+}
