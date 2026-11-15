@@ -36,6 +36,4 @@ The reported predictive gains are small and classification performance is close 
 
 Read each subfolder's `README.md` first. Each part has its own dependencies, commands, methodology and deliverables. Use the corresponding handoff documentation to reproduce that stage.
 
-## Academic integrity
 
-The supplied project brief states “NO AI Generated Content” while allowing online help for coding. Check the instructor's rules before submitting AI-assisted wording or other generated material. Ensure the team reviews and can explain all submitted work.
